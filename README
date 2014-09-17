@@ -275,9 +275,9 @@ When it comes to configuring the startup script to run, I tried several methods,
 
 The scripts are located here:
 ==============================================================
-The Start-up Script: https://www.dropbox.com/s/p0sdjr3xz7rg5lr/startoobm.sh?dl=0
-The Connection Maintenance Script: https://www.dropbox.com/s/upnod4l2tzshknj/maintainoobm.sh?dl=0
-The Config File: https://www.dropbox.com/s/6jnqh1gqb7l750n/oobm.conf?dl=0
+The Start-up Script: https://github.com/Lambchopper/Out-Of-Band-Management/blob/master/startoobm.sh
+The Connection Maintenance Script: https://github.com/Lambchopper/Out-Of-Band-Management/blob/master/maintainoobm.sh
+The Config File: https://github.com/Lambchopper/Out-Of-Band-Management/blob/master/oobm.conf
 
 Setting up the Scripts:
 ==============================================================
